@@ -1,0 +1,634 @@
+1521899705608	geckodriver	INFO	geckodriver 0.19.1
+1521899705619	geckodriver	INFO	Listening on 127.0.0.1:52575
+1521899706718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.VpbfOEMdxRZX"
+1521899707853	Marionette	INFO	Enabled via --marionette
+2018-03-24 19:25:09.057 plugin-container[1452:160934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521899709697	Marionette	INFO	Listening on port 52586
+1521899709780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521899709850	Marionette	DEBUG	Register listener.js for window 2147483649
+1521899709876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521899710660	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521899710660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521899711957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1521899712833	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1521899912952	geckodriver	INFO	geckodriver 0.19.1
+1521899912958	geckodriver	INFO	Listening on 127.0.0.1:52681
+1521899914053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.EMoAq7pWDuOe"
+1521899914618	Marionette	INFO	Enabled via --marionette
+2018-03-24 19:28:35.559 plugin-container[1492:163060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521899916025	Marionette	INFO	Listening on port 52688
+1521899916050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521899916131	Marionette	DEBUG	Register listener.js for window 2147483649
+1521899916169	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521899917065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521899917067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521899917857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1521899918715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1521903066087	geckodriver	INFO	geckodriver 0.19.1
+1521903066094	geckodriver	INFO	Listening on 127.0.0.1:53439
+1521903067203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.vvC3dwwMApHv"
+1521903067860	Marionette	INFO	Enabled via --marionette
+2018-03-24 20:21:08.813 plugin-container[1652:191047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521903069271	Marionette	INFO	Listening on port 53451
+1521903069323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521903069398	Marionette	DEBUG	Register listener.js for window 2147483649
+2018-03-24 20:25:06.294 plugin-container[1672:193459] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924008855	geckodriver	INFO	geckodriver 0.19.1
+1521924008869	geckodriver	INFO	Listening on 127.0.0.1:54652
+1521924009966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.wZlir8waEYmp"
+1521924010629	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:10:11.602 plugin-container[1984:221374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924012057	Marionette	INFO	Listening on port 54663
+1521924012150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924012213	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924012290	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924013036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924013036	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924014857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924027072	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+2018-03-25 02:10:29.651 plugin-container[1986:221724] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924161883	geckodriver	INFO	geckodriver 0.19.1
+1521924161893	geckodriver	INFO	Listening on 127.0.0.1:54829
+1521924162964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.D0vL9alK6joi"
+1521924163753	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:12:44.728 plugin-container[2009:223547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924165221	Marionette	INFO	Listening on port 54841
+1521924165280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924165365	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924165407	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924166076	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924166077	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924168054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+2018-03-25 02:12:48.571 plugin-container[2010:223672] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924171145	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924200834	geckodriver	INFO	geckodriver 0.19.1
+1521924200842	geckodriver	INFO	Listening on 127.0.0.1:55020
+1521924201921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.zffJS65i1imS"
+1521924202489	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:13:23.397 plugin-container[2019:224262] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924203827	Marionette	INFO	Listening on port 55031
+1521924203905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924203976	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924204019	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924204777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924204778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924206416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924218090	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1521924385551	geckodriver	INFO	geckodriver 0.19.1
+1521924385559	geckodriver	INFO	Listening on 127.0.0.1:55377
+1521924386689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.dLQSLzib7ZKW"
+1521924387338	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:16:28.413 plugin-container[2063:226578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924389004	Marionette	INFO	Listening on port 55388
+1521924389137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924389210	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924389271	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924389995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924389996	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924391704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924394288	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924524693	geckodriver	INFO	geckodriver 0.19.1
+1521924524702	geckodriver	INFO	Listening on 127.0.0.1:55553
+1521924525818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.d4qfAbApJhvg"
+1521924526507	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:18:47.696 plugin-container[2081:228061] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x844b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924528290	Marionette	INFO	Listening on port 55564
+1521924528357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924528439	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924528492	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924529197	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924529198	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924531095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924541083	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924583470	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924584195	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924584196	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924586049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924586059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521924586059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1521924586060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521924586060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1521924586060	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1521924586061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1521924586061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521924586062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1521924599543	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2018-03-25 02:22:29.879 plugin-container[2096:230342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924750923	geckodriver	INFO	geckodriver 0.19.1
+1521924750928	geckodriver	INFO	Listening on 127.0.0.1:55787
+1521924752015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.6Y2vfXFMKnh6"
+1521924752656	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:22:33.601 plugin-container[2099:230475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521924754083	Marionette	INFO	Listening on port 55798
+1521924754122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521924754206	Marionette	DEBUG	Register listener.js for window 2147483649
+1521924754248	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521924754970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521924754970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924756936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924768699	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924778757	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924779573	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924779575	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924781478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924781489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1521924781490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1521924781490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521924781490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521924781491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521924781491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1521924781492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521924781493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1521924794319	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924829420	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924830232	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924830233	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924831973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924831977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1521924831978	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1521924831979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1521924831979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1521924831979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1521924831982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1521924831983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1521924831983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1521924835032	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924850107	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924850939	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924850939	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924852417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1521924852417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1521924852418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1521924852418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1521924852419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1521924852419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1521924852419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1521924852419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1521924852478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924867467	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924902569	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924903367	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924903368	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924904908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924904919	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1521924904920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1521924904920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1521924904921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1521924904921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1521924904921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1521924904922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1521924904922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1521924915019	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521924930057	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521924930844	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521924930845	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521924932355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521924932365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1521924932365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+1521924932366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1521924932366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1521924932367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1521924932367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1521924932367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1521924932368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1521924935020	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521925100359	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925101154	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925101155	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925103109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925103113	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1521925103114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1521925103114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1521925103114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1521925103115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1521925103115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1521925103116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1521925103117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1521925112887	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521925127926	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925128699	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925128699	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925130243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1521925130243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1521925130244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1521925130244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483789"
+1521925130244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1521925130245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1521925130245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1521925130246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1521925130329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925132219	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+2018-03-25 02:33:07.911 firefox-bin[2098:230425] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+1521925417846	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925418525	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925418526	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925420166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925420167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483814"
+1521925420168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483816"
+1521925420168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483825"
+1521925420168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483829"
+1521925420169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483832"
+1521925420169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1521925420170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1521925420170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1521925434130	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521925449178	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925449964	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925449964	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925451792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925451796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483844"
+1521925451797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483846"
+1521925451798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483852"
+1521925451798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483839"
+1521925451798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1521925451799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483837"
+1521925451799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483835"
+1521925451799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483850"
+1521925462779	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521925718306	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925719094	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925719094	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925721348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925721353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1521925721354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1521925721354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1521925721354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483879"
+1521925721354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483882"
+1521925721355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1521925721355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1521925721356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1521925739914	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521925754955	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521925755746	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521925755746	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521925757629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521925757639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483894"
+1521925757639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483896"
+1521925757640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483902"
+1521925757640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483889"
+1521925757640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483892"
+1521925757641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483887"
+1521925757641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483885"
+1521925757642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483900"
+1521925760274	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2099, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1521925999192	geckodriver	INFO	geckodriver 0.19.1
+1521925999198	geckodriver	INFO	Listening on 127.0.0.1:56976
+1521926000309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.AmCJYRowuBCU"
+1521926001040	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:43:22.067 plugin-container[2261:244081] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926002532	Marionette	INFO	Listening on port 56987
+1521926002639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926002738	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926002791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926003606	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926003606	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926005606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926009264	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+2018-03-25 02:45:19.105 plugin-container[2264:245276] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926272666	geckodriver	INFO	geckodriver 0.19.1
+1521926272673	geckodriver	INFO	Listening on 127.0.0.1:57251
+1521926273774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.7DZqpDdv8CER"
+1521926274449	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:47:55.727 plugin-container[2274:246897] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926276263	Marionette	INFO	Listening on port 57262
+1521926276284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926276358	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926276383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1521926277054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926277055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521926278529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521926278529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1521926278530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1521926295316	geckodriver	INFO	geckodriver 0.19.1
+1521926295322	geckodriver	INFO	Listening on 127.0.0.1:57357
+1521926296408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.vh658O7jh30q"
+1521926296951	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:48:17.932 plugin-container[2280:247263] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926298391	Marionette	INFO	Listening on port 57368
+1521926298398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926298475	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926298501	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926299377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926299378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521926301164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://991thewhale.com/listen-live/popup/"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926302676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521926307260	Marionette	DEBUG	Received DOM event "pageshow" for "http://991thewhale.com/listen-live/popup/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1521926307487	geckodriver	INFO	geckodriver 0.19.1
+1521926307493	geckodriver	INFO	Listening on 127.0.0.1:57516
+1521926308564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.MBwY4WPuLAqM"
+1521926309255	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:48:30.238 plugin-container[2283:247997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926310667	Marionette	INFO	Listening on port 57527
+1521926310746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926310818	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926310835	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926311572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926311572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926313598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926315772	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+2018-03-25 02:48:36.568 plugin-container[2284:248131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-25 02:48:42.394 plugin-container[2286:248318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-25 02:49:15.456 plugin-container[2289:248733] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926389752	geckodriver	INFO	geckodriver 0.19.1
+1521926389757	geckodriver	INFO	Listening on 127.0.0.1:57671
+1521926390836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.kVRNb65pDzlo"
+1521926391495	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:49:52.739 plugin-container[2295:249241] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926393345	Marionette	INFO	Listening on port 57682
+1521926393414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926393507	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926393561	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926394649	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926394649	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521926396583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://991thewhale.com/listen-live/popup/"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926398350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521926407439	Marionette	DEBUG	Received DOM event "pageshow" for "http://991thewhale.com/listen-live/popup/"
+1521926407667	geckodriver	INFO	geckodriver 0.19.1
+1521926407677	geckodriver	INFO	Listening on 127.0.0.1:57843
+1521926408764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.OFizowhWHrIl"
+1521926409377	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:50:10.387 plugin-container[2298:250098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926410812	Marionette	INFO	Listening on port 57854
+1521926410887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926410956	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926410977	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926411811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926411812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926413748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926415994	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926486761	geckodriver	INFO	geckodriver 0.19.1
+1521926486767	geckodriver	INFO	Listening on 127.0.0.1:58025
+1521926487862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.SGvMhY9O4Tn0"
+1521926488518	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:51:29.471 plugin-container[2304:250975] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926489931	Marionette	INFO	Listening on port 58036
+1521926489946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926490020	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926490051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926490734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926490734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521926492443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://991thewhale.com/listen-live/popup/"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926493789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521926499293	Marionette	DEBUG	Received DOM event "pageshow" for "http://991thewhale.com/listen-live/popup/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2304, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1521926499517	geckodriver	INFO	geckodriver 0.19.1
+1521926499523	geckodriver	INFO	Listening on 127.0.0.1:58190
+1521926500612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.dTPw5HykPy3q"
+1521926501206	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:51:42.163 plugin-container[2307:251665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926502765	Marionette	INFO	Listening on port 58201
+1521926502829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926502905	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926502955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926503737	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926503738	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926505877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926508156	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926510255	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521926511106	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521926511106	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926512784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926512790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521926512791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521926520643	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926530759	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521926531584	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521926531585	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926533048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521926533049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1521926533049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1521926533050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1521926533050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1521926533050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1521926533051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1521926533051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1521926533154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926549239	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926714618	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521926715388	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521926715389	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926716816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1521926716816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1521926716817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1521926716819	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1521926716819	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1521926716820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1521926716820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1521926716820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1521926716922	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926720620	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926735673	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521926736444	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521926736444	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926738054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926738061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1521926738062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1521926738063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1521926738063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1521926738064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1521926738064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1521926738065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1521926738066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1521926740983	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1521926927894	geckodriver	INFO	geckodriver 0.19.1
+1521926927899	geckodriver	INFO	Listening on 127.0.0.1:58664
+1521926928983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.ZFTVN3R2Mf7w"
+1521926929543	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:58:50.483 plugin-container[2315:255785] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926930894	Marionette	INFO	Listening on port 58675
+1521926930972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926931043	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926931065	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926932157	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926932158	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521926933654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://991thewhale.com/listen-live/popup/"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926935496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1521926941311	Marionette	DEBUG	Received DOM event "pageshow" for "http://991thewhale.com/listen-live/popup/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1521926941467	geckodriver	INFO	geckodriver 0.19.1
+1521926941472	geckodriver	INFO	Listening on 127.0.0.1:58833
+1521926942555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.JlPTB0PDNhbc"
+1521926943186	Marionette	INFO	Enabled via --marionette
+2018-03-25 02:59:04.086 plugin-container[2318:256453] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521926944572	Marionette	INFO	Listening on port 58844
+1521926944658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521926944722	Marionette	DEBUG	Register listener.js for window 2147483649
+1521926944738	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521926945468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521926945469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926947160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926949478	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521926961547	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521926962334	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521926962335	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521926963992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521926964021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521926964023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1521926964024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1521926964025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1521926964026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1521926964026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1521926964027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521926964031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521926966687	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2318, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1521927019861	geckodriver	INFO	geckodriver 0.19.1
+1521927019867	geckodriver	INFO	Listening on 127.0.0.1:59008
+1521927020958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.hJdEkX8d8Dmx"
+1521927021550	Marionette	INFO	Enabled via --marionette
+2018-03-25 03:00:22.503 plugin-container[2325:257711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521927022986	Marionette	INFO	Listening on port 59019
+1521927023048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521927023118	Marionette	DEBUG	Register listener.js for window 2147483649
+1521927023158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521927023720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521927023720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521927025618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://991thewhale.com/listen-live/popup/"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521927027242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1521927032361	Marionette	DEBUG	Received DOM event "pageshow" for "http://991thewhale.com/listen-live/popup/"
+1521927032556	geckodriver	INFO	geckodriver 0.19.1
+1521927032564	geckodriver	INFO	Listening on 127.0.0.1:59171
+1521927033646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/63/jtq1y5ws4k7b_kj1v91qj9hr0000gn/T/rust_mozprofile.6WwNAfaoZhZo"
+1521927034236	Marionette	INFO	Enabled via --marionette
+2018-03-25 03:00:35.172 plugin-container[2328:258400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521927035586	Marionette	INFO	Listening on port 59182
+1521927035650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521927035722	Marionette	DEBUG	Register listener.js for window 2147483649
+1521927035755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521927036490	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521927036491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521927038174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521927040513	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
+1521927052634	Marionette	DEBUG	Received DOM event "beforeunload" for "http://v6.player.abacast.net/4993"
+1521927053501	Marionette	DEBUG	Received DOM event "pagehide" for "http://v6.player.abacast.net/4993"
+1521927053502	Marionette	DEBUG	Received DOM event "unload" for "http://v6.player.abacast.net/4993"
+JavaScript warning: http://v6.player.abacast.net/assets/js/jquery-1.10.2.min.js?cb=49, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1521927055584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://v6.player.abacast.net/4993"
+1521927055595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521927055595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1521927055596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1521927055596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1521927055596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1521927055596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1521927055597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1521927055604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1521927068150	Marionette	DEBUG	Received DOM event "pageshow" for "http://v6.player.abacast.net/4993"
