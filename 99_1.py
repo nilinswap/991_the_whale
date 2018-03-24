@@ -47,7 +47,8 @@ def main_loop():
 		st = el.text
 
 		if st == pst:
-			time.sleep(10)
+			time.sleep(20)
+			driver.refresh()
 			continue
 		pst = st
 		try:
