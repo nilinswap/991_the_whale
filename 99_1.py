@@ -69,7 +69,7 @@ def main_loop():
 		file_ob = open("songs.txt", "r+")
 		st_lines = file_ob.readlines()
 		file_ob.close()
-		#print(st)
+		print(st)
 		#print(st_lines)
 		print(st in st_lines)
 		if st not in st_lines:
@@ -82,8 +82,8 @@ def main_loop():
 		time.sleep(5)
 	driver.close()
 if __name__ == '__main__':
-	
-	print( os.system('sudo osascript -e "set Volume 0" shinigamilovE1'))
+	os.system("pactl set-sink-mute 0 1")
+	#print( os.system('sudo osascript -e "set Volume 0"'))
 	main_loop()
 
 
