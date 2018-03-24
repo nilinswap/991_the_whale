@@ -77,7 +77,7 @@ def main_loop():
 			file_ob.write(st )
 			file_ob.close()
 
-		time.sleep(10)
+		time.sleep(60)
 		driver.refresh()
 		time.sleep(5)
 	driver.close()
