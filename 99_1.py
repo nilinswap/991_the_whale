@@ -31,41 +31,36 @@ def main_loop():
 	driver.get(src)
 	time.sleep(2)
 	pst = ''
-	while (1):
-		try:
-			el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[1]')
-		except NoSuchElementException:
-			print("NoSuchElementException occured!, let us wait and see")
-			time.sleep(2)
-			el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[1]')
-			if not el:
+	while True:
+		while True:
+			try:
+				el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[1]')
+				break;
+			except NoSuchElementException:
 				print("still no element, let us refresh a bit")
 				driver.refresh()
-				time.sleep(2)
-				el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[1]')
+				time.sleep(5)
 				continue
-		st = el.text
+		st = el.text # name of the song
 
 		if st == pst:
 			time.sleep(20)
 			driver.refresh()
 			continue
 		pst = st
-		try:
-			el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[2]/span')
-		except NoSuchElementException:
-			print("NoSuchElementException occured!, let me refresh and see")
-			time.sleep(2)
-			el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[2]/span')
-			if not el:
+		while True:
+			try:
+				el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[2]/span')
+				break;
+			except NoSuchElementException:
 				print("still no element, let us refresh a bit")
 				driver.refresh()
-				time.sleep(2)
-				el = driver.find_element_by_xpath('//*[@id="recently-played"]/div[2]/ul/li[1]/div[2]/div[1]/div[2]/span')
+				time.sleep(5)
 				continue
+		
 
 			
-		st = st + ', ' + el.text + '\n'
+		st = st + ', ' + el.text + '\n' # new el.text gives band's name
 		st = st.lower()
 		file_ob = open("songs.txt", "r+")
 		st_lines = file_ob.readlines()
